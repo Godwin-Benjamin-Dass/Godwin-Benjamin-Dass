@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godwin-benjamin-dass&label=Profile%20views&color=0e75b6&style=flat" alt="godwin-benjamin-dass" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=godwin-benjamin-dass" alt="godwin-benjamin-dass" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
